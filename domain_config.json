@@ -1,7 +1,5 @@
 {
   "activeDomain": "https://yaeetv.com/laravel_app/public/api/android/v1/",
-  "backupDomains": [
-    "https://yaetvplus.com/laravel_app/public/api/android/v1/"
-  ],
+  "backupDomains": [],
   "updatedAt": "2026-09-24T00:00:00-03:00"
 }
